@@ -17,3 +17,5 @@ The comments code in the sources are in spanish.
 * dx_lib32 Project: http://portfolio.visualstudioex3.com/2006/02/25/dxlib32-project/
 * TLSA Engine: http://portfolio.visualstudioex3.com/2010/07/30/tlsa-engine-vb6/
 * Grey Infection: http://portfolio.visualstudioex3.com/2011/09/19/greyinfection/
+* John Saunders "One Way to Serialize Dictionaries": http://johnwsaundersiii.spaces.live.com/blog/cns!600A2BE4A82EA0A6!699.entry
+* Marius Watz Java implementation for 2D line intersection function: http://workshop.evolutionzone.com/2007/09/10/code-2d-line-intersection/
