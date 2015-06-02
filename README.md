@@ -11,7 +11,7 @@ This is the current version of the engine used for develop Grey Infection. After
 P.D.: The last updates and Windows Phone 7 code not included in this repository, only the XBox360 version used in Grey Infection.
 
 ##### Notes:
-The comments code in the sources are in spanish.
+* The comment lines in code are in spanish.
 
 ##### Related links:
 * dx_lib32 Project: http://portfolio.visualstudioex3.com/2006/02/25/dxlib32-project/
