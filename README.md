@@ -1,6 +1,9 @@
 # TLSA.Engine
 XNA game engine designed and used for develop Grey Infrection XBLIG game.
 
+##### Development date/period: 
+* 2010 - 2011
+
 ##### History:
 For years, I studied how develop mi own 2D game engine for general game developments. The first versions of this engine has been developed in Visual Basic 6.0 and Visual Basic .NET languages, using the dx_lib32 project as base.
 
